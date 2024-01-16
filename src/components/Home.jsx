@@ -1,5 +1,6 @@
 import React from 'react';
 import { HiArrowNarrowRight } from 'react-icons/hi';
+import { TypeAnimation } from 'react-type-animation';
 
 const Home = () => {
   return (
@@ -11,7 +12,23 @@ const Home = () => {
           Natchel Lebea
         </h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-          I'm a Junior Front-end Developer.
+        <TypeAnimation
+      sequence={[
+        // Same substring at the start will only be typed out once, initially
+        'I am a Junior Front-end developer',
+        1000, // wait 1s before replacing "Mice" with "Hamsters"
+        'I am a Junior Software engineer',
+        1000,
+        'I am a Junior Web Developer',
+        1000,
+        'I am a Junior Software developer',
+        1000
+      ]}
+      wrapper="span"
+      speed={40}
+      style={{ fontSize: '0.5em', display: 'inline-block' }}
+      repeat={Infinity}
+    />
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
           I’m a full-stack developer specializing in building (and occasionally
