@@ -1,35 +1,21 @@
 import WorkIm from '../assets/projects/workImg.jpeg'
-import RealEst from '../assets/projects/realestate.jpg'
+import RealEst from '../assets/projects/realestate.png'
 
 export const data=[
     {
         id:1,
-        name:"React JS Application",
+        name:"Calculator",
         image:WorkIm,
-        github:"",
-        live:"",
+        github:"https://github.com/NatchelLebea/Calculator-website",
+        live:"https://natchellebea.github.io/Calculator-website/",
     },
     {
         id:2,
-        name:"React JS Application",
+        name:"TODO-list",
         image:RealEst,
-        github:"",
-        live:"",
+        github:"https://github.com/NatchelLebea/TODO-list",
+        live:"https://natchellebea.github.io/TODO-list/",
     },
-    {
-        id:3,
-        name:"React JS Application",
-        image:WorkIm,
-        github:"",
-        live:"",
-    },
-    {
-        id:4,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
-    },
-
+   
 
 ]

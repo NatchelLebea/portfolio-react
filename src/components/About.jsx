@@ -19,11 +19,11 @@ const About = () => {
             </p>
             <p></p>
             <p className='mb-4'>
-              I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?
+              I am Natchel Lebea, a computer science graduate who is very enthusiastic and passinate about software engineering
+              and latest technologies.I love to create beautiful and functional web applications that are easy to use and enjoyable
+              to look at. I have a strong background in HTML, CSS, JavaScripts , Java, SQL and reactjs ,and I'm always looking for 
+              new ways to improve my skills and challenge myself. I'm excited to work on new even if not new projects to help people
+              achieve their goals.
             </p>
             {/* Add margin to create space */}
             <p className='mb-8'></p>
