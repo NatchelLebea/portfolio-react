@@ -1,6 +1,7 @@
 import WorkIm from '../assets/projects/workImg.png'
 import RealEst from '../assets/projects/realestate.png'
 import TacImg from '../assets/projects/tacImg.png'
+import RecipeImg from '../assets/projects/recipeImg.png'
 
 export const data=[
     {
@@ -23,6 +24,14 @@ export const data=[
         image:TacImg,
         github:"https://github.com/NatchelLebea/random-quote-generator",
         live:"https://natchellebea.github.io/random-quote-generator/",
+    },
+    {
+        id:4,
+        name:"Recipe Wizard",
+        image:RecipeImg,
+        github:"https://github.com/NatchelLebea/recipe-wizard",
+        live:"https://natchellebea.github.io/recipe-wizard/",
+    
     },
 
 ]
