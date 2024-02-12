@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.ecc31a6d.css",
-    "main.js": "/portfolio-react/static/js/main.f7e6aa98.js",
+    "main.css": "/portfolio-react/static/css/main.fd238365.css",
+    "main.js": "/portfolio-react/static/js/main.8826ae16.js",
+    "static/media/recipeImg.png": "/portfolio-react/static/media/recipeImg.263433e4073f77da4d8e.png",
     "static/media/workImg.png": "/portfolio-react/static/media/workImg.bd0e46107e308df1b122.png",
     "static/media/resume.pdf": "/portfolio-react/static/media/resume.5935b0e640a0acbfd504.pdf",
     "static/media/realestate.png": "/portfolio-react/static/media/realestate.84d010ecd2eeac22b013.png",
@@ -17,11 +18,11 @@
     "static/media/firebase.png": "/portfolio-react/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/javascript.png": "/portfolio-react/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio-react/index.html",
-    "main.ecc31a6d.css.map": "/portfolio-react/static/css/main.ecc31a6d.css.map",
-    "main.f7e6aa98.js.map": "/portfolio-react/static/js/main.f7e6aa98.js.map"
+    "main.fd238365.css.map": "/portfolio-react/static/css/main.fd238365.css.map",
+    "main.8826ae16.js.map": "/portfolio-react/static/js/main.8826ae16.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecc31a6d.css",
-    "static/js/main.f7e6aa98.js"
+    "static/css/main.fd238365.css",
+    "static/js/main.8826ae16.js"
   ]
 }
