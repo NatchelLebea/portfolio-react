@@ -24,7 +24,7 @@
 .content-div:hover {
     background-image: linear-gradient(
         to right,
-        rgba(42, 43, 43, 0.5), /* Adjust the alpha value (0.5 for 50% transparency) */
-        hsla(240, 3%, 20%, 0.5)   /* Adjust the alpha value */
+        rgba(42, 43, 43, 0.7), /* Adjust the alpha value (0.5 for 50% transparency) */
+        hsla(240, 3%, 20%, 0.7)   /* Adjust the alpha value */
     )!important;
 }
